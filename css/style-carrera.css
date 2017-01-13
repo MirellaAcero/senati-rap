@@ -1,0 +1,479 @@
+/*--------------RESPONSIVE DESING-------------------*/
+
+@media (max-width: 768px){
+.region-bideo video {
+    height: auto;
+    position: absolute;
+    width: 200%  !important;
+    left: 0px;
+    top: 0px !important;
+}
+div#preface2 {
+    height: 1740px;
+}
+.region.region-preface2 {
+    height: 1877px !important;
+}
+.container {
+    height: 100%;
+}
+section#block-views-carreras-inicio-block-3 {
+    height: 100%;
+}
+.container-fluid.carrera {
+    height: 100%;
+}
+
+.row.carrera  {
+    padding-left: 0 !important;
+    padding-top: 40px !important;
+    padding-bottom: 50px !important;
+    height: 100%;
+    }  
+.col-xs-12.col-md-12.pasion-carrera {
+    position: relative;
+    bottom: 200px !important;
+
+    }
+li.carre-1 {
+    position: relative!important;
+    right: 20px !important;
+    width: 174px !important;
+}
+li.carre-2 {
+    position: relative;
+    left: 162px !important;
+    bottom: 225px !important;
+    width: 174px !important;
+}
+li.carre-3 {
+    position: relative;
+    bottom: 195px !important;
+    left: -20px !important;
+    width: 174px !important;
+}
+li.carre-4 {
+    position: relative;
+    right: -159px !important;
+    bottom: 360px !important;
+    width: 174px !important;
+}
+li.carre-5 {
+    position: relative;
+    bottom: 308px !important;
+    left: -20px !important;
+    width: 174px !important;
+}
+li.carre-6 {
+    position: relative;
+    bottom: 537px !important;
+    left: 156px !important;
+    width: 174px !important;
+}
+li.carre-7 {
+    position: relative;
+    bottom: 479px !important;
+    right: 14px !important;
+    width: 174px !important;
+}
+li.carre-8 {
+    position: relative;
+    right: 14px !important;
+    bottom: 372px !important;
+    width: 174px !important;
+}
+li.carre-9 {
+    position: relative;
+    bottom: 863px !important;
+    left: 158px !important;
+    width: 174px !important;
+}
+li.carre-10 {
+    position: relative;
+    bottom: 766px !important;
+    left: 162px !important;
+    width: 174px !important;
+}
+li.carre-11 {
+    position: relative;
+    bottom: 680px !important;
+    right: 12px !important;
+    width: 174px !important;
+}
+li.carre-12 {
+    position: relative;
+    bottom: 880px !important;
+    left: 161px !important;
+    width: 174px !important;
+}
+li.carre-13 {
+    position: relative;
+    bottom: 900px !important;
+    left: 67px !important;
+    width: 174px !important;
+}
+.col-xs-12.col-md-12.pasion-carrera {
+    visibility: hidden;
+    position: relative;
+    bottom: 0px;
+}
+.col-xs-12.col-md-8.carrera-text{
+    visibility: hidden;
+    }
+.lb-album-2 img {
+    float: left;
+    width: 300px !important;
+    height: 350px !important;
+    position: relative;
+    right: 123px !important;
+    margin-bottom: 38px !important;
+    }
+img.play-1 {
+    width: 20% !important;
+    height: 20% !important;
+    left: 100px !important;
+    top: 105px !important;
+    }
+img.play-2 {
+    width: 20% !important;
+    height: 20% !important;
+    left: 100px !important;
+    top: 105px !important;
+    }
+.lb-album-2 li > a span {
+    border-radius: 0;
+    top: 0px !important;
+    left: -125px !important;
+    position: absolute;
+    width: 300px !important;
+    height: 350px !important;
+    text-align: center;
+    font-weight: bold;
+    line-height: 160px;
+    color: #e95b15;
+    text-shadow: #e95b15;
+    font-size: 40px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=0)";
+    background: rgb(43, 43, 43, 0.4);
+    background: -moz-radial-gradient(center, ellipse cover, rgba(43, 43, 43, 0.4) 0%, rgba(43, 43, 43, 0.4) 100%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(43, 43, 43, 0.4)), color-stop(100%,rgba(43, 43, 43, 0.4)));
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(43, 43, 43, 0.4) 0%,rgba(43, 43, 43, 0.4) 100%);
+    background: -o-radial-gradient(center, ellipse cover, rgba(43, 43, 43, 0.4) 0%,rgba(43, 43, 43, 0.4) 100%);
+    background: -ms-radial-gradient(center, ellipse cover, rgba(43, 43, 43, 0.4) 0%,rgba(43, 43, 43, 0.4) 100%);
+    background: radial-gradient(center, ellipse cover, rgba(43, 43, 43, 0.4) 0%,rgba(43, 43, 43, 0.4) 100%);
+    -webkit-transition: opacity 0.3s linear;
+    -moz-transition: opacity 0.3s linear;
+    -o-transition: opacity 0.3s linear;
+    -ms-transition: opacity 0.3s linear;
+    transition: opacity 0.3s linear;
+    }
+}
+
+@media (max-width: 320px){
+    li.carre-1 {
+    position: relative!important;
+    right: 36px !important;
+    width: 160px !important;
+    }
+    li.carre-2 {
+    position: relative;
+    left: 124px !important;
+    bottom: 225px !important;
+    width: 160px !important;
+    }
+    li.carre-3 {
+    position: relative;
+    bottom: 195px !important;
+    left: -37px !important;
+    width: 160px !important;
+    }
+    li.carre-4 {
+    position: relative;
+    right: -122px !important;
+    bottom: 360px !important;
+    width: 160px !important;
+    }
+    li.carre-5 {
+    position: relative;
+    bottom: 308px !important;
+    left: -37px !important;
+    width: 174px !important;
+    }
+    li.carre-6 {
+    position: relative;
+    bottom: 537px !important;
+    left: 122px !important;
+    width: 160px !important;
+    }
+    li.carre-7 {
+    position: relative;
+    bottom: 479px !important;
+    right: 38px !important;
+    width: 160px !important;
+    }
+    li.carre-8 {
+    position: relative;
+    right: 36px !important;
+    bottom: 372px !important;
+    width: 160px !important;
+    }
+    li.carre-9 {
+    position: relative;
+    bottom: 863px !important;
+    left: 120px !important;
+    width: 160px !important;
+    }
+    li.carre-10 {
+    position: relative;
+    bottom: 758px !important;
+    left: 122px !important;
+    width: 160px !important;
+    }
+    li.carre-11 {
+    position: relative;
+    bottom: 680px !important;
+    right: 37px !important;
+    width: 160px !important;
+    }
+    li.carre-12 {
+    position: relative;
+    bottom: 880px !important;
+    left: 121px !important;
+    width: 160px !important;
+    }
+}
+/*-------INICIO DE VIDEO------*/
+.region-bideo video {
+    height: auto;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: -27px;
+}
+/*-------INICIO DE CARRERAS------*/
+.front .preface2 .container {
+    width: 100%;
+    padding: 0;    
+    background-image: url("../images/carreras.png");
+}
+
+.row.carrera{
+    padding-top: 40px;
+    padding-bottom: 160px;
+}
+.overlay {
+    width: 161px;
+    height: 160px;
+    position: absolute;
+    top: 0;
+    border-radius: 50%;
+    left: 65px;
+}
+.overlay img{
+    visibility: hidden;
+}
+.overlay:hover img {
+    visibility: visible;
+}
+.overlay:hover {
+    background-color:#8d8c8d;
+	opacity:0.8;
+    color: white;
+}
+.carrera p {
+    font-family: Futurah;
+    margin-top: 10px;
+	color:#ffffff;
+	font-size:16px;
+}
+.overlay img {
+    visibility: hidden;
+    position: absolute;
+    top: 67px;
+    left: 67px;
+}
+.carrera-texto {
+    padding-top: 20px;
+}
+.row2 {
+    width: 100%;
+    height: 232px;
+}
+
+/* ================================
+Works
+================================= */
+
+.lb-album{
+	margin-left:10px;
+	list-style: none;
+	width: 100%;
+	margin: 0 auto;
+}
+.lb-album li {
+    float: left;
+    margin-right: 7px;
+}
+.lb-album li > a,
+.lb-album li > a img{
+	display: block;
+}
+.lb-album li > a{
+	width: 160px;
+	height: 160px;
+	position: relative;
+	padding: 0;
+	background: transparent;
+	border-radius:50%;
+}
+.lb-album li > a span{
+	border-radius:50%;
+	position: absolute;
+	width: 160px;
+	height: 160px;
+	top: 0;
+	left: 0;
+	text-align: center;
+	font-weight:bold;
+	line-height: 160px;
+	color: #e95b15;
+	text-shadow: #e95b15;
+	font-size: 40px;
+	opacity: 0;
+	filter: alpha(opacity=0); /* internet explorer */
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=0)"; /*IE8*/
+	background: rgb(43, 43, 43, 0.4);
+	background: -moz-radial-gradient(center, ellipse cover, rgba(43, 43, 43, 0.4) 0%, rgba(43, 43, 43, 0.4) 100%);
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(43, 43, 43, 0.4)), color-stop(100%,rgba(43, 43, 43, 0.4)));
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(43, 43, 43, 0.4) 0%,rgba(43, 43, 43, 0.4) 100%);
+	background: -o-radial-gradient(center, ellipse cover, rgba(43, 43, 43, 0.4) 0%,rgba(43, 43, 43, 0.4) 100%);
+	background: -ms-radial-gradient(center, ellipse cover, rgba(43, 43, 43, 0.4) 0%,rgba(43, 43, 43, 0.4) 100%);
+	background: radial-gradient(center, ellipse cover, rgba(43, 43, 43, 0.4) 0%,rgba(43, 43, 43, 0.4) 100%);
+	-webkit-transition: opacity 0.3s linear;
+	-moz-transition: opacity 0.3s linear;
+	-o-transition: opacity 0.3s linear;
+	-ms-transition: opacity 0.3s linear;
+	transition: opacity 0.3s linear;
+}
+.lb-album li > a:hover span{
+	opacity: 1;
+	filter: alpha(opacity=99); /* internet explorer */
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=99)"; /*IE8*/
+}
+.lb-overlay{
+	width: 0px;
+	height: 0px;
+	position: fixed;
+	overflow: hidden;
+	left: 0px;
+	top: 0px;
+	padding: 0px;
+	z-index: 99;
+	text-align: center;
+	background: rgb(241,210,194);
+	background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%, rgba(241,210,194,1) 100%);
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(255,255,255,0.56)), color-stop(100%,rgba(241,210,194,1)));
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(241,210,194,1) 100%);
+	background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(241,210,194,1) 100%);
+	background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(241,210,194,1) 100%);
+	background: radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(241,210,194,1) 100%);
+}
+.lb-overlay > div{
+	position: relative;
+	color: rgba(27,54,81,0.8);
+	opacity: 0;
+	filter: alpha(opacity=0); /* internet explorer */
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=0)"; /*IE8*/
+	width: 550px;
+	margin: 10px auto 0px auto;
+	text-shadow: 0px 1px 1px rgba(255,255,255,0.6);
+	-webkit-transition: opacity 0.3s linear 1.3s;
+	-moz-transition: opacity 0.3s linear 1.3s;
+	-o-transition: opacity 0.3s linear 1.3s;
+	-ms-transition: opacity 0.3s linear 1.3s;
+	transition: opacity 0.3s linear 1.3s;
+}
+.lb-overlay div h3,
+.lb-overlay div p{
+	padding: 0px 20px;
+	width: 200px;
+	height: 60px;
+}
+.lb-overlay div h3{
+	font-size: 32px;
+	margin-top:0;
+	float: left;
+	text-align: right;
+	border-right: 1px solid rgba(27,54,81,);
+	text-shadow: none;
+	color: #fff;
+}
+.lb-overlay div h3 span,
+.lb-overlay div p{
+	font-size: 16px;
+	text-shadow: none;
+	color: #fff;
+}
+.lb-overlay div h3 span{
+	display: block;
+	line-height: 6px;
+}
+.lb-overlay div p{
+	text-align: left;
+	float: left;
+	width: 260px;
+}
+.lb-overlay a.lb-close{
+	
+	z-index: 1001;
+	color: #fff;
+	position: absolute;
+	top: 43px;
+	left: 50%;
+	
+	font-size: 28px;
+	line-height: 26px;
+	text-align: center;
+	width: 50px;
+	height: 23px;
+	overflow: hidden;
+	margin-left: -25px;
+	opacity: 0;
+	filter: alpha(opacity=0); /* internet explorer */
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=0)"; /*IE8*/
+	-webkit-transition: opacity 0.3s linear 1.2s;
+	-moz-transition: opacity 0.3s linear 1.2s;
+	-o-transition: opacity 0.3s linear 1.2s;
+	-ms-transition: opacity 0.3s linear 1.2s;
+	transition: opacity 0.3s linear 1.2s;
+}
+.lb-overlay img{
+	/* height: 100%; For Opera max-height does not seem to work */
+	max-height: 100%;
+	position: relative;
+	-webkit-box-shadow: 1px 1px 4px rgba(0,0,0,0.3);
+	-moz-box-shadow: 1px 1px 4px rgba(0,0,0,0.3);
+	box-shadow: 0px 2px 7px rgba(0,0,0,0.2);
+}
+.lb-overlay:target {
+	width: auto;
+	height: auto;
+	bottom: 0px;
+	right: 0px;
+	padding: 80px 100px 120px 100px;
+}
+.lb-overlay:target img {
+	-webkit-animation: fadeInScale 1.2s ease-in-out;
+	-moz-animation: fadeInScale 1.2s ease-in-out;
+	-o-animation: fadeInScale 1.2s ease-in-out;
+	-ms-animation: fadeInScale 1.2s ease-in-out;
+	animation: fadeInScale 1.2s ease-in-out;
+}
+.lb-overlay:target a.lb-close,
+.lb-overlay:target > div{
+	opacity: 1;
+	filter: alpha(opacity=99); /* internet explorer */
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=99)"; /*IE8*/
+}

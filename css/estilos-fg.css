@@ -1,0 +1,748 @@
+body.html.front.not-logged-in.one-sidebar.sidebar-second.page-node.win.desktop.one-page {
+    padding: 0;
+}
+/*--------------RESPONSIVE DESING-------------------*/
+@media (max-width: 768px){
+.awwa p:first-child img {
+    width: 308px;
+    margin-left: -21px;
+    margin-top: 55px;
+}
+button {
+    width: 200px;
+}
+.row.slider {
+    width: 100% !important;
+    padding-bottom: 30px !important;
+    margin-left: 2px;
+}
+.slidx {
+    height: 300px;
+    margin-top: 6px;
+}
+.texto-slider {
+    position: absolute !important;
+    top: 67px !important;
+    left: 0px !important;
+    width: 100% !important;
+}
+.col-xs-4{
+    width: 33.33333% !important;
+}
+.cfp1.col-md-4 {
+    margin-top: 40px !important;
+}
+.cfp.col-md-4 {
+    margin-top: 13px !important;
+}
+ul {
+    padding-left: 0;
+    padding-right: 0;
+}
+.modal li {
+    font-size: 16px !important;
+}
+.modal h3 {
+    font-size: 15px !important; 
+}
+.inicio.col-md-4 {
+    margin-top: 18px !important;
+}
+.row.testimonios {
+    padding: 0 !important;
+    width: 100% !important;
+    margin: 0;
+    margin-bottom: 41px;
+}
+.testimonio h1 {
+    float: left;
+    margin-left: 0 !important;
+}
+.texto-testimonio {
+    width: 100% !important;
+    margin-top: 50px !important;
+}
+div#accordion {
+    width: 360px;
+    margin-top: -94px;
+    margin-left: -68px;
+}
+.row.footer {
+    width: 375px;
+}
+.titulo {
+    text-align: center;
+}
+.texto-slider p {
+    color: #ffffff !important;
+    text-align: center !important;
+    font-size: 18px !important;
+}
+button.home-volver {
+    margin-left: 0px !important;
+    margin-top: 23px !important;
+    padding: 12px;
+    background: #ff3c00;
+    color: #ffffff;
+}
+.mapa {
+    position: relative !important;
+    right: 27px !important;
+    top: 20px !important;
+}
+tbody {
+    position: absolute;
+    left: 7px;
+}
+.modal {
+    left: 10% !important;
+    width: 334px !important;
+    height: 400px !important;
+}
+.preface2 h1 {
+    right:309px !important;
+}
+.foto {
+    float: left;
+    margin-right: 0px !important;
+}
+form {
+    width: 300px !important;
+    position: relative;
+    left: 14px;
+}
+.col-xs-12.col-md-4{
+   border-right:none !important;
+    }
+.texto-mapa {
+    width: 280px;
+    padding: 10px;
+    position: absolute;
+    left: 0!important;
+    top: 170px;
+    color: #fff;
+    font-size: 17px;
+}
+select {
+    width: 270px !important;
+    height: 40px !important;
+    position: relative;
+    border-radius: 4px;
+    margin-bottom: 0 !important;
+    background-color: #fff !important;
+    right: 11px;
+}
+input#nombre {
+    width: 270px !important;
+    height: 40px !important;
+    margin: 0 !important;
+    }
+input#apellido{
+    width: 270px !important;
+    height: 40px !important;
+    margin: 10 !important;
+    }
+select#ciudad{
+    width: 270px !important;
+    height: 40px !important;
+    position: relative !important;
+    left: -12px !important;
+    top: 10px !important;
+    }
+input#telefono{
+    width: 270px !important;
+    height: 40px !important;
+    margin: 0 !important;
+    }
+input#email{
+    width: 270px !important;
+    height: 40px !important;
+    margin: 0 !important;
+    }
+input#dni{
+    width: 270px !important;
+    height: 40px !important;
+    margin: 0 !important;
+    }
+select#status {
+    width: 270px  !important;
+    margin-left: 0 !important;
+    height: 40px !important;
+    position: relative !important;
+    left: -12px !important;
+    border-radius: 4px !important;
+    color: gray;
+    background-color: #fff !important;
+    }
+textarea#mensaje {
+    margin: auto;
+    position: relative;
+    border-radius: 5px;
+    bottom: 45px !important;
+    width: 270px !important;
+    right: 14px !important;
+}
+.preguntas-frecuente h1 {
+    float: left !important;
+    margin-left: 0px !important;
+    margin-top: 49px !important;
+}
+img.carrera-t {
+    width: 100% !important;
+    position: relative;
+    left: 310px;
+}  
+.row.carrera  {
+    padding-left: 0 !important;
+    padding-top: 40px !important;
+    padding-bottom: 50px !important;
+    }  
+.col-md-6.mapa{
+    padding-left: 36px !important;
+}
+table {
+    position: absolute;
+    width: 118% !important;
+    height: 549px !important;
+    }
+img.testi-text {
+    width: 90% !important;
+    }
+.texto-mapa{
+    visibility: hidden;
+    }
+.col-xs-12.col-md-8.carrera-text{
+    visibility: hidden;
+    }
+.pre-texto {
+    width: 285px !important;
+    margin-left: -45px !important;
+    top: 200px !important;
+}
+.col-xs-6 {
+    width: 100% ; 
+}
+.row.footer {
+    padding: 0px 0px 10px 38px !important;
+}
+div#formulariofinal {
+    position: relative;
+    bottom: 70px !important;
+}
+div#formulario2 {
+    position: relative;
+    top: 0;
+    height: 760px !important;
+    visibility: visible !important;
+    background: gray;
+    }
+    .front .preface3 .container {
+    width: 100%;
+    height: 730px;
+    padding: 0;
+    background-image: url("../images/fondo-sedes_20.png");
+    }
+    h1.sede2 {
+    position: relative !important;
+    top: 40px !important;
+    right: 0px !important;
+    }
+    .nombre h2 {
+    font-size: 29px;
+    font-family: FuturaBkBTBook;
+    font-weight: 100;
+    color: #ffffff;
+    text-align: left;
+    width: 260px !important;
+}
+.titulo-pre {
+    position: relative;
+    width: 330px !important;
+    top: 80px;
+    left: -54px;
+}
+.titulo-bene {
+    position: relative;
+    top: 33px !important;
+    right: 0 !important;
+}
+.texto-testimonio {
+    width: 240px;
+    margin-top: 50px;
+}
+}
+
+@media (max-width: 320px){
+    .texto-slider {
+    position: absolute !important;
+    top: 52px !important;
+    left: 0px !important;
+    width: 100% !important;
+    }
+    button.home-volver {
+    margin-left: 0px !important;
+    margin-top: 23px !important;
+    padding: 12px;
+    background: #ff3c00;
+    color: #ffffff;
+    }
+    .titulo img {
+    position: relative;
+    left: -17px !important;
+    }
+    .titulo {
+    position: relative;
+    left: 0 !important;
+    }  
+    .titulo-pre {
+    position: relative;
+    width: 100% !important;
+    top: 61px !important;
+    left: -90px !important;
+    }
+    .row {
+    margin-right: 0 !important;
+    margin-left:  0px !important;
+    }
+    .titulo-pre img {
+    width: 90% !important;
+    margin-left: 20px !important;
+    }
+    .pre-texto {
+    width: 100% !important;
+    margin-left: 0 !important;
+    top: 150px !important;
+    }
+    table {
+    position: absolute;
+    width: 134% !important;
+    }
+    .row.footer {
+    width: 100% !important;
+    }
+}
+
+/*-------TIPOGRAFIAS------*/
+@font-face {
+  font-family: DINOT-Bold;
+  src: url(../fonts/DINOT-BOLD.otf); }
+  @font-face {
+  font-family: DINOT-Regular;
+  src: url(../fonts/DINOT-Regular.otf); }
+   @font-face {
+  font-family: Futura-Light;
+  src: url(../fonts/Futura-Light.ttf); }
+  @font-face {
+  font-family: FuturaBeyazItalic;
+  src: url(../fonts/FuturaBeyazItalic.ttf); }
+   @font-face {
+  font-family: FuturaExtended;
+  src: url(../fonts/FuturaExtended.ttf); }
+  @font-face {
+  font-family: Futurah;
+  src: url(../fonts/Futurah.TTF); }
+  @font-face {
+  font-family: FuturaLight;
+  src: url(../fonts/FuturaLight.ttf); }
+   @font-face {
+  font-family: FuturaBkBTBook;
+  src: url(../fonts/tt0140m.ttf); }
+/*-------FORMULARIO------*/
+.col-md-6.formulario {
+    position: fixed;
+    top: 98px;
+    left: 670px;
+    display: none;
+    z-index: 1;
+}
+select {
+    width: 292px;
+    height: 26px;
+    color: #999999;
+    font-size: 14px;
+}
+input#nombre2 {
+    width: 292px;
+    height: 26px;
+    margin-bottom: 10px;
+    font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:#2c2c2c;
+    border-radius: 0px;
+    border: 1px solid #ccc;
+    }
+input#apellido2{
+    width: 292px;
+    height: 26px;
+    margin-bottom: 10px;
+    border-radius: 0px;
+    border: 1px solid #ccc;
+    }
+input#telefono1{
+    width: 292px;
+    height: 26px;
+    margin-bottom: 10px;
+    border-radius: 0px;
+    border: 1px solid #ccc;
+    margin-left: -2px;
+    }
+input#email1{
+    width: 292px;
+    height: 26px;
+    margin-bottom: 10px;
+    border-radius: 0px;
+    border: 1px solid #ccc;
+    margin-left: 2px;
+    }
+input#dni2 {
+    width: 292px;
+    height: 26px;
+    margin-bottom: 10px;
+    font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:#2c2c2c;
+    border-radius: 0px;
+    border: 1px solid #ccc;
+    }
+select#ciudad2 {
+    margin-bottom: 10px;
+    border-radius: 0px;
+    border: 1px solid #ccc;
+    margin-left: 2px;
+    color: #989696;
+    width: 292px;
+    height: 26px;
+    font-size: 13px;
+}
+select#administracion2 {
+    width: 292px;
+    height: 26px;
+    border-radius: 0px;
+    border: 1px solid #ccc;
+}
+select#status2 {
+    width: 292px;
+    height: 26px;
+    margin: 0;;
+    position: relative;
+    border-radius: 0px;
+    border: 1px solid #ccc;
+    color: #989696;
+    font-family:Gotham, "Helvetica Neue", Helvetica, Arial;
+}
+textarea#mensaje1 {
+    margin: auto;
+    position: relative;
+    bottom: 53px;
+    width: 292px;
+    margin-left: -2px;
+    height: 60px;
+    font-family:Gotham, "Helvetica Neue", Helvetica, Arial;
+}
+.titulo {
+    position: relative;
+    left: 10px;
+}
+.fondo-formulario {
+    background-color: rgba(51, 51, 51, 0.74);
+    width: 368px;
+    position: fixed;
+    right: 100px;
+    float: right;
+}
+
+/*-------INICIO DE LANDING RAP ------*/
+img.boto-n.img-responsive {
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+}
+div#header1 {
+    background-color: #fff;
+    padding: 0;
+} 
+form {
+    text-align: center;
+    margin: auto;
+    width: 374px;
+    font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:#2c2c2c;
+}
+.pre-texto{
+    position: relative;
+    width: 590px;
+    top: 200px;"
+}
+.titulo-pre {
+    position: relative;
+    width: 400px;
+    top: 80px;
+    left: -54px;
+}
+.titulo-pre img {
+    width: 310px;
+}
+.row.pre-senati {
+    padding-left: 50px;
+    padding-bottom: 40px;
+}
+.pre-texto p {
+    font-family: Futura-Light;
+    color: #272525;
+    font-size: 20px;
+    text-align: justify;
+}
+div#preface {
+    margin-top: 0;
+}
+div#beneficios {
+    position: relative;
+    bottom: 130px;
+}
+div#especialidades {
+    position: relative;
+    bottom: 95px;
+}
+div#sedes {
+    position: relative;
+    bottom: 95px;
+}
+div#testimonios {
+    position: relative;
+    bottom: 95px;
+}
+
+div#formulario {
+    height: 537px;
+}
+.front .preface .container {
+    width: 100%;
+    padding: 0;
+    background-image: url("../images/pre_senati.png");
+    padding-bottom: 300px;
+}
+
+/*-------INICIO DE BENEFICIOS------*/
+.front .preface1 .container {
+    width: 100%;
+    padding: 0;
+    background-image: url("../images/images_04.png");
+}
+p.beneficio {
+    display: inline-block;
+    font-family: DINOT-Regular;
+}
+.titulo-bene {
+    position: relative;
+    top: 60px;
+    right: 440px;
+}
+.row1 {
+    width: 100%;
+    height: 190px;
+}
+.row.beneficios {
+    padding-left: 0px;
+    padding-top: 110px;
+    padding-bottom: 40px;
+}
+.beneficio-1 {
+    width: 100%;
+    height: 110px;
+    margin-bottom: 20px;
+}
+
+.zls-small.zls-btnmn.zls-btrht {
+    display: block !important;
+    visibility: hidden;
+}
+button {
+    background-color: transparent;
+    border: transparent;
+    position: relative;
+    bottom: 30px;
+}
+img.linea-1 {
+    display: inline-block;
+    position: relative;
+    bottom: 137px;
+    left: 100px;
+}
+img.linea-2 {
+    display: inline-block;
+    position: relative;
+    bottom: 137px;
+    left: 100px;
+}
+/*-------INICIO DE CARRERAS------*/
+.front .preface2 .container {
+    width: 100%;
+    padding: 0;    
+    background-image: url("../images/carreras.png");
+}
+.preface2 h1 {
+    position: relative;
+    right:325px;
+}
+img.carrera-t {
+    width: 40%;
+}
+.row.carrera{
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.administracion {
+    margin-bottom: 30px;
+}
+.overlay {
+    width: 161px;
+    height: 160px;
+    position: absolute;
+    top: 0;
+    border-radius: 50%;
+    left: 14px;
+}
+.overlay img{
+    visibility: hidden;
+}
+.overlay:hover img {
+    visibility: visible;
+}
+.overlay:hover {
+    background-color:#8d8c8d;
+    opacity:0.8;
+    color: white;
+}
+.carrera p {
+    font-family: Futurah;
+    margin-top: 10px;
+    color:#ffffff;
+    font-size:16px;
+}
+.overlay img {
+    visibility: hidden;
+    position: absolute;
+    top: 67px;
+    left: 67px;
+}
+.carrera-texto {
+    padding-top: 20px;
+}
+.row2 {
+    width: 100%;
+    height: 232px;
+}
+
+/*-------INICIO DE SEDES------*/
+.front .preface3 .container {
+    width: 100%;
+    padding: 0;    
+    background-image: url("../images/fondo-sedes_20.png");
+
+}
+img.mapa {
+    width: 100%;
+}
+table {
+    background-image: url("../images/mapa_22.png");
+    width: 102%;
+    height: 630px;
+    background-repeat: no-repeat;
+}
+.mapa {
+    position: relative;
+    right: 15px;
+    top: 20px;
+}
+.texto-mapa {
+    width: 280px;
+    padding: 10px;
+    position: absolute;
+    left: 435px;
+    top: 170px;
+    color: #fff;
+    font-size: 17px;
+}
+.row.sedes {
+    padding-top:3%;
+    padding-bottom: 40px;
+}
+.inicio.col-md-4.col-xs-4 {
+    margin-top: 26px;
+}
+
+/*-------INICIO DE TESTIMONIOS------*/
+.carousel {
+    position: relative;
+    top: 0px;
+}
+.front .preface4 .container {
+    width: 100%;
+    padding: 0;    
+    background-image: url("../images/images_10.jpg");
+}
+.row.testimonios {
+    padding: 40px 0 40px 70px;
+    width: 60%;
+}
+.testimonio h1 {
+    float: left;
+    margin-left: 85px;
+}
+/*-------INICIO DE MOTIVO------*/
+.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+    line-height: 1;
+    margin: auto;
+}
+.row.slider {
+    width: 65%;
+    padding-bottom: 60px;
+}
+.front .preface5 .container {
+    width: 100%;
+    padding: 0;    
+    background-image: url("../images/images_10.jpg");
+}
+
+/*-------INICIO DE FOOTER------*/
+.row.footer {
+    padding: 34px 150px;
+}
+
+img.cuadrado {
+    position: relative;
+    top: 28px;
+    right: 20px;
+}
+img.cuadrado1 {
+    position: relative;
+    top: 13px;
+    right: 20px;
+}
+.texto1 p {
+    margin-top: 10px;
+    margin-right: 30px;
+}
+img.facebook {
+    margin-right: 17px;
+}
+.red {
+    margin-top: 18px;
+}
+.row.footer {
+    padding: 34px 150px;
+    background-color: #fff;
+}
+footer {
+    border-bottom: 20px solid #1a1818;
+}
+footer h4 {
+    color: #1A1818;
+}
+footer p {
+    color: #1A1818;
+}
+footer h3 {
+    color: #E33C02;
+    margin: 0;
+}
+
+-------------------------------------------------
